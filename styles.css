@@ -1,0 +1,45 @@
+h1 {
+  height: 70px;
+  width: 900px;
+  text-align: center;
+  color: #042264;
+  border-radius: 10px;
+
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+}
+h2 {
+  color: black;
+  height: 25px;
+  width: 900px;
+  border-radius: 5px;
+  border-left: 5px ridge rgb(214, 17, 17);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+}
+h3 {
+  color: rgb(58, 58, 58);
+  background: linear-gradient(90deg, #00c9ff 0%, #92fe9d 100%);
+  height: 25px;
+  width: 900px;
+  border-radius: 5px;
+  border-left: 5px ridge rgb(214, 17, 17);
+}
+audio {
+  box-shadow: 5px 5px 20px#346c7b;
+  border-radius: 10px;
+}
+body {
+  background-color: rgb(36, 35, 35);
+  color: white;
+}
+video {
+  box-shadow: 5px 5px 10px;
+}
